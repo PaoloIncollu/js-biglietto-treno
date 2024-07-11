@@ -11,12 +11,3 @@ Step da seguire
 
 5. Output del prezzo finale in forma umana
 
-class Test {
-   public static void main (String [] args) {
- 
-    double num = 12.5249;
-    double dueDecimali = Math.round(num*100.0)/100.0;
-    System.out.println (dueDecimali);
-
-  }
-}
